@@ -1,0 +1,57 @@
+END-USER LICENSE AGREEMENT By Krabs Software
+
+**Notice to User**:
+Please, read this carefully. By using all or any portion of the Software you accept all the terms and conditions of this Agreement. If you do not agree, do not use this Software.
+
+
+This Software License ("License") is a legal agreement between you (referred to as "Licensee" or "You". Licensee" means You or Your Company, unless otherwise indicated.) and Krabs Software (referred to as "Licensor" or "Krabs") regarding the use of the Stream Deck Plugin developed by Krabs (referred to as the "Software"). By downloading, installing, or using the Software, you agree to be bound by the terms and conditions of this License.
+
+**1. Grant of License**
+
+Subject to the terms and conditions of this License, Krabs hereby grants Licensee a non-exclusive, non-transferable, and revocable license to use the Software free of charge, for both personal and commercial purposes. This license allows you to install and use the Software on compatible devices that you own or control.
+
+
+**2. Restrictions**
+
+2.1 **No Resale**: Licensee acknowledges and agrees that the Software is provided free of charge, and Licensee shall not sell, rent, lease, sublicense, or otherwise transfer or distribute the Software to any third party, whether for profit or otherwise.
+
+2.2 **No Modification**: Licensee shall not modify, reverse engineer, decompile, or disassemble the Software, or create derivative works based on the Software.
+
+2.3 **No Removal of Notices**: Licensee shall not remove, alter, or obscure any copyright, trademark, or other proprietary notices contained within the Software.
+
+
+**3. Intellectual Property**
+
+3.1 **Ownership**: Licensee acknowledges and agrees that the Software, including any intellectual property rights therein, is and shall remain the property of Krabs or its licensors.
+
+3.2 **Feedback**: Licensee may provide suggestions, feedback, or improvements regarding the Software to Krabs voluntarily. Licensee agrees that Krabs shall be free to use, disclose, reproduce, modify, license, distribute, and exploit any feedback provided by Licensee without any obligation or restriction.
+
+
+**4. Disclaimer of Warranty**
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, KRABS DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. KRABS DOES NOT WARRANT THAT THE SOFTWARE WILL MEET YOUR REQUIREMENTS, BE ERROR-FREE, OR THAT ITS USE WILL BE UNINTERRUPTED OR TIMELY.
+
+
+**5. Limitation of Liability**
+
+IN NO EVENT SHALL KRABS BE LIABLE TO LICENSEE OR ANY THIRD PARTY FOR ANY INCIDENTAL, INDIRECT, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO THIS LICENSE OR THE USE OF THE SOFTWARE, EVEN IF KRABS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. KRABS' TOTAL AGGREGATE LIABILITY UNDER THIS LICENSE SHALL NOT EXCEED ONE U.S. DOLLAR ($1).
+
+
+**6. Termination**
+
+This License is effective until terminated. Krabs may terminate this License at any time without notice if Licensee fails to comply with any of its terms. Upon termination, Licensee shall cease all use of the Software and promptly delete all copies of the Software in its possession or control.
+
+
+**7. Governing Law**
+
+This License shall be governed by and construed in accordance with the laws of the jurisdiction where Krabs is located, without regard to its conflict of law principles.
+
+
+**8. Entire Agreement**
+
+This License constitutes the entire agreement between Licensee and Krabs concerning the Software and supersedes all prior or contemporaneous oral or written communications, proposals, and representations with respect to the Software.
+
+By installing or using the Krabs Stream Deck Plugin, you indicate that you have read and understand this License and agree to be bound by its terms and conditions.
+
+
+© 2023 Krabs Software. All rights reserved.
